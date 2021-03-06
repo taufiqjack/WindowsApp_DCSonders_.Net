@@ -1,1 +1,1 @@
-# WindowsApp_DCSonders_.Net
+# WindowsApp_DCSonders_dotNet
